@@ -1,4 +1,4 @@
-package P023
+package P023_mergeKLists
 
 import "leetcode-golang/kit"
 

@@ -1,4 +1,4 @@
-package P007
+package P007_reverse
 
 import (
 	"testing"

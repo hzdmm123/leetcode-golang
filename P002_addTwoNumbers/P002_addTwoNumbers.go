@@ -1,4 +1,4 @@
-package P002
+package P002_addTwoNumbers
 
 import "leetcode-golang/kit"
 

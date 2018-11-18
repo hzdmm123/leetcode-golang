@@ -1,4 +1,4 @@
-package P004
+package P004_findMedianSortedArrays
 
 import (
 	"fmt"

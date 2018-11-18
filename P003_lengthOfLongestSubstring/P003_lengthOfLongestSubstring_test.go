@@ -1,4 +1,4 @@
-package P003
+package P003_lengthOfLongestSubstring
 
 import (
 	"testing"
